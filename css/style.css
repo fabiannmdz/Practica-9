@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(175, 126, 52);
+}
+nav{
+    background-color: rgb(56, 55, 55);
+}
+thead{
+    background-color: rgba(211, 185, 147, 0.842);
+    color: rgb(36, 34, 33);
+}
+footer{
+    background-color: #1f1c1e;
+    color: rgb(148, 136, 109);
+}
+.col{
+    display: inline-block;
+    width: 45%;
+    margin-right: 10px;
+}
+.card-link {
+    color: #1f1c1e;
+}
+.card-subtitle {
+    color: black;
+}
+.card-subtitle .mb-2 .text-muted{
+    color: black;
+    background-color: black;
+}
+h6 .card-subtitle {
+    color: black;
+}
+.text-muted {
+    color: black;
+}
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #161818 ;
+}
+.nav a {
+    color: #161818;
+    font-family: Arial, Helvetica, sans-serif;
+}
